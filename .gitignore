@@ -1,6 +1,6 @@
-# Ignore node_modules and build output
-node_modules
-dist
-.DS_Store
+node_modules/
+dist/
+.vscode/
 .env
-*.log
+package-lock.json
+
